@@ -1,17 +1,22 @@
-﻿  Main.cpp
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(81,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(84,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(85,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(100,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(114,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(139,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(144,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(173,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(173,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(173,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(184,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Main\C++\FunGUI\FunGUI\Main.cpp(184,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FunGUI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(73,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(87,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(92,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(93,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(108,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(124,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(150,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(155,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(188,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(188,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(188,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(189,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(189,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(189,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(189,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(199,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GitHub\PhysicsNParticles\FunGUI\Main.cpp(199,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FunGUI.vcxproj -> D:\Main\C++\GitHub\PhysicsNParticles\x64\Debug\PhysicsNParticles.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
