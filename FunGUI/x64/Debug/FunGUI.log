@@ -1,0 +1,17 @@
+﻿  Main.cpp
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(81,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(84,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(85,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(100,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(114,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(139,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(144,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(173,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(173,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(173,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(174,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(184,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\FunGUI\FunGUI\Main.cpp(184,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data

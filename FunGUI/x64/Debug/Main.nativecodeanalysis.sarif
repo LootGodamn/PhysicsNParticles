@@ -1,0 +1,454 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'sscanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                },
+                "region": {
+                  "startLine": 3993,
+                  "startColumn": 25,
+                  "endLine": 3993,
+                  "endColumn": 82
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GuiLoadStyle",
+                  "decoratedName": "GuiLoadStyle",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'sscanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                },
+                "region": {
+                  "startLine": 4004,
+                  "startColumn": 25,
+                  "endLine": 4004,
+                  "endColumn": 89
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GuiLoadStyle",
+                  "decoratedName": "GuiLoadStyle",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6387",
+          "message": {
+            "text": "'fileData' could be '0':  this does not adhere to the specification for the function 'fread'. "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                },
+                "region": {
+                  "startLine": 4065,
+                  "startColumn": 17,
+                  "endLine": 4065,
+                  "endColumn": 70
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GuiLoadStyle",
+                  "decoratedName": "GuiLoadStyle",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 3969,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 3972,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 3974,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 3976,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 3977,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 3979,
+                            "startColumn": 23
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4047,
+                            "startColumn": 24
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4049,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4052,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4054,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4056,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4058,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4059,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4060,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4062,
+                            "startColumn": 30
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4064,
+                            "startColumn": 32
+                          }
+                        },
+                        "message": {
+                          "text": "'fileData' may be NULL"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4065,
+                            "startColumn": 22
+                          }
+                        },
+                        "message": {
+                          "text": "'fileData' is an In/Out argument to 'fread' (declared at c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\stdio.h:239)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ]
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                          },
+                          "region": {
+                            "startLine": 4065,
+                            "startColumn": 22
+                          }
+                        },
+                        "message": {
+                          "text": "'fileData' should not be NULL, because this is not consistent with the SAL annotation on 'fread'"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6029",
+          "message": {
+            "text": "Possible buffer overrun in call to 'fread'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+                },
+                "region": {
+                  "startLine": 4283,
+                  "startColumn": 54,
+                  "endLine": 4283,
+                  "endColumn": 83
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "GuiLoadIcons",
+                  "decoratedName": "GuiLoadIcons",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///D:/Main/C++/raygui-master/raygui-master/src/raygui.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "e3d4bb7f48208a03284de1e98d5bf9354560e49de563611b3d8f29fb3631fb8c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/main/c++/fungui/fungui/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "53af9c768a432a6072e84a8e0142991dbb0d4409db244c34133863dd8cc6eb89"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/main/c++/vcpkg/installed/x64-windows/include/raylib.h"
+          },
+          "hashes": {
+            "sha-256": "d77bdc9b25911aafa43b3e49a7665e5ba562e526bc77958cddc2d425038aeddc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/main/c++/vcpkg/installed/x64-windows/include/raymath.h"
+          },
+          "hashes": {
+            "sha-256": "2d9db954b9ee5cfb827c0a39d6e134ee575a7b9e0670f6b70b774b7138b8b5ac"
+          }
+        }
+      ]
+    }
+  ]
+}
